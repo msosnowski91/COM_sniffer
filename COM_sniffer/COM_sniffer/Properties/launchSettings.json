@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "COM_sniffer": {
+      "commandName": "Project",
+      "commandLineArgs": "COM5 1 COM14 COM13"
+    }
+  }
+}
